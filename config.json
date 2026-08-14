@@ -1,0 +1,18 @@
+{
+  "site": {
+    "title": "My Website",
+    "description": "A static site built from finished HTML pages.",
+    "language": "en",
+    "baseUrl": "http://localhost"
+  },
+  "navigation": {
+    "automatic": true
+  },
+  "feed": {
+    "enabled": true,
+    "limit": 20
+  },
+  "sitemap": {
+    "enabled": true
+  }
+}
